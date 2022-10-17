@@ -1,0 +1,1 @@
+# India-Kaggle-2022-Survey-Data-Salary-Prediction
